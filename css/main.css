@@ -76,6 +76,10 @@ header.masthead .intro-text .intro-heading {
     width: 1024px;
     margin: auto; } }
 
+@media only screen and (max-width: 992px) {
+  #navbar {
+    display: none; } }
+
 .btn-floating.btn-large {
   border: none; }
 
@@ -160,3 +164,4 @@ h5 {
   background-color: #272830;
   height: 96px;
   padding: 26px; }
+
