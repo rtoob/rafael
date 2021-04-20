@@ -76,9 +76,6 @@ header.masthead .intro-text .intro-heading {
     width: 1024px;
     margin: auto; } }
 
-@media only screen and (max-width: 992px) {
-  #navbar {
-    display: none; } }
 
 .btn-floating.btn-large {
   border: none; }
